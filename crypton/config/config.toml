@@ -1,0 +1,14 @@
+[cryptopia.auth]
+apiKey = ""
+secret = ""
+
+[cryptocompare]
+datapoint_fetch_limit = 2000
+
+[keras]
+features = 6
+epochs = 10
+batch_size = 24
+
+[plot]
+linewidth = 1.3

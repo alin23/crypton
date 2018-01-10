@@ -1,0 +1,14 @@
+*.log
+*.pyc
+.cache/
+.coverage
+.idea/
+.vscode/
+crypton.egg-info/
+build/
+dist/
+docs/build/
+venv/
+wheelhouse/
+*.sublime-*
+.mypy_cache

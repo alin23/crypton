@@ -1,0 +1,17 @@
+[metadata]
+name = 'crypton'
+version = '0.0.1'
+description = ''
+author = 'Alin Panaitiu'
+author_email = 'alin.p32@gmail.com'
+license = 'MIT/Apache-2.0'
+url = 'https://github.com/alin23/crypton'
+
+[requires]
+python_version = ['3.6']
+
+[build-system]
+requires = ['setuptools', 'wheel']
+
+[tool.hatch.commands]
+prerelease = 'hatch build'
