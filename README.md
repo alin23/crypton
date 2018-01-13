@@ -21,14 +21,14 @@ $ pip install crypton
 
 ### Using Keras neural networks (useless right now)
 
-```python
-crypton --pair XVG,BTC --predictor keras - forecast --learn-from-date='15 December 2017'
+```bash
+$ crypton --pair XVG,BTC --predictor keras - forecast --learn-from-date='15 December 2017'
 ```
 
 ### Using Facebook Prophet
 
-```python
-crypton --pair XVG,BTC --predictor prophet - forecast --learn-from-date='15 December 2017'
+```bash
+$ crypton --pair XVG,BTC --predictor prophet - forecast --learn-from-date='15 December 2017'
 ```
 
 ## License
