@@ -28,7 +28,7 @@ REQUIRES = [
     "numpy",
     "pandas",
     "python-dateutil",
-    "tensorflow"
+    "tensorflow",
     "uvloop",
 ]
 
